@@ -1,0 +1,3246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>แปลงนาบอน (226-1-92 ไร่).kmz</name>
+	<visibility>0</visibility>
+	<StyleMap id="msn_ylw-pushpin32">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin28</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin29</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin461">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1490</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1570</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin42">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600ffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline53">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline402</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin33">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin42</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin28</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff0000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle16200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle126</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight440</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight44001">
+		<IconStyle>
+			<scale>0.709089</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin91">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin29</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle1620">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight44000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1440">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc0000ff</color>
+			<width>7.1</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4102">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin29">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff00ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff0000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin168">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin147</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin155</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_placemark_circle1622">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle05</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight44002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin701">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3152</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0011</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin29">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff00ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3152">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ccffaa00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle0">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin332</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_placemark_circle_highlight442">
+		<IconStyle>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin310">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b30000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin110">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2.7</width>
+		</LineStyle>
+	</Style>
+	<Style id="inline402">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin420">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin332">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc0000ff</color>
+			<width>5.8</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin911">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ccffaa00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc0000ff</color>
+			<width>3.8</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight440">
+		<IconStyle>
+			<scale>0.827271</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin214">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff0000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1490">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight44000">
+		<IconStyle>
+			<scale>0.709089</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2.7</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle05">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin28">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600ffff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="inline5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#inline400</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#inline700</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin0011">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ccffaa00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2.7</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin28">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff00ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight44002">
+		<IconStyle>
+			<scale>0.709089</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc0000ff</color>
+			<width>3.8</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin280">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0210">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc0000ff</color>
+			<width>5.8</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle161">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ccffaa00</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin221">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0201">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>b30000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin164">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1440</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1590</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline700">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>66ff0000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl220">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1570">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_placemark_circle_highlight440020">
+		<IconStyle>
+			<scale>0.709089</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle1621">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle07</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight44001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin512">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0201</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline70">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>6600ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin155">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff00ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin515">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ccffaa00</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle07">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin414">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin515</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin911</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="inline400">
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>66ff0000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle16220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle050</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight440020</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_placemark_circle126">
+		<IconStyle>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff0000</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin330">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin420</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin280</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff0000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffffaa00</color>
+			<width>2.7</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1590">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc0000ff</color>
+			<width>7.1</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_placemark_circle050">
+		<IconStyle>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.9</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ccffaa00</color>
+			<width>10</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin26">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff00ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin214</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl220</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin147">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ffff00ff</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4dff00ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_placemark_circle0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_placemark_circle161</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_placemark_circle_highlight442</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1010">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>cc0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1010</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4102</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>แปลงนาบอน (226-1-92 ไร่)</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>กลุ่มSPP (85-3-43.7 ไร่)</name>
+			<visibility>0</visibility>
+			<Folder>
+				<name>land (85-3-43.7 ไร่)</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>ฉ.7957 (1-0-41 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51451783291053,8.294034009085332,0 99.5147453355921,8.293939699148767,0 99.5145301262998,8.293349511161031,0 99.51430569838122,8.293446863236241,0 99.51451783291053,8.294034009085332,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>น.ส.3ก เลขที่3690 (1-0-00 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51453175621393,8.293351370362551,0 99.51473499731195,8.293281432724308,0 99.51494607410703,8.293857510592144,0 99.51474651351226,8.293938315346814,0 99.51453175621393,8.293351370362551,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.7959 (6-3-0 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51389235356801,8.292978923981853,0 99.51391501848551,8.292703731712196,0 99.51478028554607,8.29232718276776,0 99.51498176496587,8.292786357681298,0 99.51495627469556,8.293210425120993,0 99.5145334833219,8.29334708795821,0 99.51430934073397,8.293444282295109,0 99.51410534519731,8.293526523904678,0 99.51389235356801,8.292978923981853,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.7929 (7-2-51 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51446784123716,8.291679597862647,0 99.51407485462455,8.2918729652542,0 99.51393155578536,8.29197824266914,0 99.51360217275044,8.292197553863174,0 99.51349640859249,8.291709155120964,0 99.51331509884011,8.290931085237467,0 99.51426249181303,8.290901297742416,0 99.51446784123716,8.291679597862647,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.7960 (3-3-38 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51391520516418,8.292704746580114,0 99.51478046529837,8.292327788141025,0 99.51447978508972,8.291697091292294,0 99.5140880455964,8.291884218897661,0 99.51394040863454,8.292001807423034,0 99.51399622357576,8.292151464507658,0 99.51391520516418,8.292704746580114,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.13735 (5-1-15.4 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51351265919894,8.29302302965977,0 99.51312852710493,8.293089920655191,0 99.51219111973953,8.293162318801887,0 99.51218155662858,8.292747677687583,0 99.51231943358786,8.292709646654553,0 99.51247931758863,8.292674488281305,0 99.51254449667124,8.292527548939988,0 99.51266471180361,8.292514118050628,0 99.51285666817844,8.292496849652835,0 99.51304668570791,8.292481499828162,0 99.51329884957355,8.292468650063601,0 99.51333920730558,8.292526231473406,0 99.51351265919894,8.29302302965977,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.13739 (3-2-98.5 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51231933438322,8.292709299242372,0 99.51201871416031,8.291500865468668,0 99.51239276238498,8.291307133386608,0 99.51266428434802,8.292513755971317,0 99.51254479128924,8.292527551210947,0 99.51247898229411,8.292675139865208,0 99.51231933438322,8.292709299242372,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.13740 (2-1-92.7 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51183567019469,8.291591657820439,0 99.51201910868667,8.291501646498665,0 99.51231835628531,8.292708257717504,0 99.51218068476571,8.292746441868857,0 99.51219112669692,8.293162567378317,0 99.51213744293452,8.293168470276116,0 99.51183567019469,8.291591657820439,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.13741 (1-2-77.7 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51164583271223,8.29171344539316,0 99.51171728797941,8.291704191469961,0 99.5117148778147,8.291645763709871,0 99.51183499481692,8.291590819204563,0 99.51213836700765,8.293167330873573,0 99.51201639056524,8.293201420075924,0 99.51164583271223,8.29171344539316,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.13743 (2-0-49.4 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51131518358,8.293405826518152,0 99.51121779593045,8.293007306137874,0 99.5117245140783,8.292871288272275,0 99.51181200723126,8.293262178288611,0 99.51131518358,8.293405826518152,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.13742 (2-1-62.4 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51144936805257,8.291734657585829,0 99.51164624251834,8.291714021448897,0 99.51201593485172,8.293201104933596,0 99.51181172808974,8.293262035321813,0 99.5117263207069,8.292877146204535,0 99.51144936805257,8.291734657585829,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.10509 (3-0-11 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51389234643328,8.292981591786086,0 99.51351327432701,8.293023199101706,0 99.51344095531199,8.292805201215852,0 99.51333836347025,8.29252394575623,0 99.51326940856295,8.292427420288483,0 99.51399477469123,8.292153623482779,0 99.51391420888045,8.292703406835463,0 99.51389234643328,8.292981591786086,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.10511 (2-1-52.8 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51147449398047,8.292936761510401,0 99.51119140942875,8.291765130647262,0 99.51144950524827,8.29173610730088,0 99.5117247821991,8.292871475193124,0 99.51147449398047,8.292936761510401,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.10211 (6-3-33.4 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51131636924644,8.293407216461196,0 99.5107462244832,8.293588827736448,0 99.51069570023209,8.293359994200763,0 99.51092720335709,8.293265570346614,0 99.51065279437275,8.291832538385563,0 99.51119121755319,8.291765508709595,0 99.51147464319611,8.292936113232596,0 99.51121768089031,8.293009081513239,0 99.51131636924644,8.293407216461196,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.16241 (4-3-51.9 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51056146311947,8.29137962953385,0 99.51119063786577,8.29142939550219,0 99.51120482206,8.290920384146945,0 99.51166699288648,8.29090124230691,0 99.5116837579383,8.291314709267104,0 99.5117061704081,8.291693382158918,0 99.51164369141668,8.291702056269562,0 99.51143762462857,8.291725712997321,0 99.51118613120529,8.291755678024735,0 99.51065110947452,8.291822704585377,0 99.51056146311947,8.29137962953385,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.16242 (3-2-7.3 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.5105613643978,8.291379517217198,0 99.51051662785397,8.291131032795704,0 99.51011402756487,8.291058777173415,0 99.51011191309115,8.290817985208939,0 99.51041452229312,8.290836833608553,0 99.51120467328452,8.290920385394557,0 99.51119080779888,8.291429235345364,0 99.5105613643978,8.291379517217198,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.16243 (3-3-18.2 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51041295502324,8.290836127206205,0 99.51011200666318,8.290817250365313,0 99.51012048501112,8.290685825499336,0 99.5101960753814,8.290690020474559,0 99.51026107082136,8.290418537617327,0 99.50985523377015,8.290374637824385,0 99.51002690427556,8.2899772939644,0 99.51047840014178,8.290281381800556,0 99.51061127074665,8.289803584418108,0 99.51086919930256,8.289799851511502,0 99.51088872414638,8.290476802163685,0 99.51046272919471,8.290439409294571,0 99.51041295502324,8.290836127206205,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.7947 (4-2-90 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51086918062974,8.289800182764264,0 99.51163319971985,8.289782194012151,0 99.51165857645668,8.290534344897909,0 99.51151030051025,8.29051684485759,0 99.51150621824648,8.290861454099387,0 99.51134569906077,8.290860107426392,0 99.51135250235183,8.290502040841876,0 99.51121393725083,8.290498979625683,0 99.51105690261483,8.290492222682703,0 99.51088880098692,8.290476981634344,0 99.51086918062974,8.289800182764264,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>เฉพาะส่วน ฉ.6928 (7-0-00 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.50949419122725,8.289260290042593,0 99.51057760211225,8.289390908883142,0 99.50988689677213,8.289887255544583,0 99.50972902535642,8.290814249878066,0 99.50923117106623,8.290709083880454,0 99.50949419122725,8.289260290042593,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.7962 (6-3-46 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51069204852348,8.295125644694862,0 99.51059828066201,8.295187503211075,0 99.51020047400411,8.293591026472539,0 99.51066385111859,8.293369899673721,0 99.51071819000214,8.29360282896287,0 99.51104297650335,8.295012070223367,0 99.51069204852348,8.295125644694862,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.7963 (5-1-07 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#inline53</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51059940720818,8.295188390799327,0 99.51013135103619,8.295158436236459,0 99.50982629764306,8.293706909219246,0 99.51020120704614,8.293591695066624,0 99.51059940720818,8.295188390799327,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>point (85-3-43.7 ไร่)</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>ฉ.7957 (1-0-41 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51375387982125</longitude>
+						<latitude>8.292928886390568</latitude>
+						<altitude>0</altitude>
+						<heading>-2.000603122676759e-005</heading>
+						<tilt>0</tilt>
+						<range>643.0358979904726</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51454641934697,8.293774394822711,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>น.ส.3ก เลขที่3690 (1-0-00 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51375387982125</longitude>
+						<latitude>8.292928886390568</latitude>
+						<altitude>0</altitude>
+						<heading>-2.000603122676759e-005</heading>
+						<tilt>0</tilt>
+						<range>643.0358979904726</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51469132268649,8.293475720462467,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.7959 (6-3-0 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51426088948038</longitude>
+						<latitude>8.293347018627758</latitude>
+						<altitude>0</altitude>
+						<heading>0.0006803960715551804</heading>
+						<tilt>2.862004516755665</tilt>
+						<range>362.6683415345064</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51440912650186,8.292942425348961,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.7929 (7-2-51 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51389147003863</longitude>
+						<latitude>8.291549425802797</latitude>
+						<altitude>0</altitude>
+						<heading>4.770832022195274e-015</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000391</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51390773749401,8.291441589651928,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.7960 (3-3-38 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51389147003863</longitude>
+						<latitude>8.291549425802797</latitude>
+						<altitude>0</altitude>
+						<heading>4.770832022195274e-015</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000391</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51431734359554,8.292191802726885,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.13735 (5-1-15.4 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51389147003863</longitude>
+						<latitude>8.291549425802797</latitude>
+						<altitude>0</altitude>
+						<heading>4.770832022195274e-015</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000391</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51284708021076,8.292817806144024,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.13739 (3-2-98.5 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51238640402512</longitude>
+						<latitude>8.291875702346195</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0002171963300456803</heading>
+						<tilt>0</tilt>
+						<range>643.0358979881187</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.5122734967195,8.291660773709561,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.13740 (2-1-92.7 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51238640402512</longitude>
+						<latitude>8.291875702346195</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0002171963300456803</heading>
+						<tilt>0</tilt>
+						<range>643.0358979881187</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51203786710971,8.292022879302991,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.13741 (1-2-77.7 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51238640402512</longitude>
+						<latitude>8.291875702346195</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0002171963300456803</heading>
+						<tilt>0</tilt>
+						<range>643.0358979881187</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51186572007717,8.292321587774737,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.13743 (2-0-49.4 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51389147003863</longitude>
+						<latitude>8.291549425802797</latitude>
+						<altitude>0</altitude>
+						<heading>4.770832022195274e-015</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000391</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51148537134154,8.293127087520249,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.13742 (2-1-62.4 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51238640402512</longitude>
+						<latitude>8.291875702346195</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0002171963300456803</heading>
+						<tilt>0</tilt>
+						<range>643.0358979881187</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.5117662418353,8.292638293090617,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.10509 (3-0-11 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51389147003863</longitude>
+						<latitude>8.291549425802797</latitude>
+						<altitude>0</altitude>
+						<heading>4.770832022195274e-015</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000391</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51366408559343,8.292617763053418,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.10511 (2-1-52.8 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51238640402512</longitude>
+						<latitude>8.291875702346195</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0002171963300456803</heading>
+						<tilt>0</tilt>
+						<range>643.0358979881187</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51137502335897,8.292059910031393,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.10211 (6-3-33.4 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51389147003863</longitude>
+						<latitude>8.291549425802797</latitude>
+						<altitude>0</altitude>
+						<heading>4.770832022195274e-015</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000391</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51104878425393,8.292575897573006,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.16241 (4-3-51.9 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51389147003863</longitude>
+						<latitude>8.291549425802797</latitude>
+						<altitude>0</altitude>
+						<heading>4.770832022195274e-015</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000391</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51133799933108,8.291517252896496,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.16242 (3-2-7.3 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51389147003863</longitude>
+						<latitude>8.291549425802797</latitude>
+						<altitude>0</altitude>
+						<heading>4.770832022195274e-015</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000391</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51080171378327,8.291110911553499,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.16243 (3-3-18.2 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51103259795706</longitude>
+						<latitude>8.291747954406809</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0004123844721853075</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000395</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51061903840257,8.290288043326779,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.7947 (4-2-90 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51103259795706</longitude>
+						<latitude>8.291747954406809</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0004123844721853075</heading>
+						<tilt>0</tilt>
+						<range>1000.000000000395</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51125450887045,8.290151553252978,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>เฉพาะส่วน ฉ.6928 (7-0-00 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51025019369436</longitude>
+						<latitude>8.289495376771365</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0003891717815718079</heading>
+						<tilt>0</tilt>
+						<range>408.8770168087723</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1622</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.50981909036609,8.289628775648861,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.7962 (6-3-46 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51097240891886</longitude>
+						<latitude>8.293197193578985</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0004211098109491505</heading>
+						<tilt>0</tilt>
+						<range>999.9999999991792</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51055115454564,8.293978521893273,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.7963 (5-1-07 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.51097240891886</longitude>
+						<latitude>8.293197193578985</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0004211098109491505</heading>
+						<tilt>0</tilt>
+						<range>999.9999999991792</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1621</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51023415697465,8.294621128121316,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>กลุ่มโรงชิพ (139-2-94.4 ไร่)</name>
+			<visibility>0</visibility>
+			<Folder>
+				<name>Land (139-2-94.4 ไร่)</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>ฉ.12700 (9-2-89.4 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51518617566143,8.311506892298619,0 99.51517684531309,8.313154407610506,0 99.51441970160029,8.31314699987929,0 99.51441274204852,8.312248281062088,0 99.51447847025196,8.311402657667541,0 99.51518617566143,8.311506892298619,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.4126 (4-0-46 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51015471356031,8.310796971852454,0 99.50978540335606,8.310812289410851,0 99.50958749687186,8.309483565307396,0 99.50956028532976,8.309220472004025,0 99.50985045666624,8.309198791865732,0 99.51015471356031,8.310796971852454,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>น.ส.3ก เลขที่ 3222 (7-3-79 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51355191764651,8.310414221780183,0 99.51250952696034,8.310421981142929,0 99.51256711186747,8.309999979921125,0 99.51260670085551,8.309792735237576,0 99.51263009474431,8.309309947852091,0 99.51320490145554,8.309402538919382,0 99.51353094952036,8.309431028150073,0 99.51355191764651,8.310414221780183,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>น.ส.3ก เลขที่ 600 (14-2-80 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin33</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51204921968812,8.313304171872861,0 99.51177625324516,8.313308460247939,0 99.51172859210509,8.313211849079902,0 99.51129195977795,8.313229002745223,0 99.51090616532997,8.313031650650931,0 99.51085848976179,8.312915392919694,0 99.51083933806133,8.31236234740569,0 99.51081528771498,8.311947977009215,0 99.51219954653558,8.311789226435472,0 99.51221102969799,8.312033359020091,0 99.5122066955349,8.312044795405376,0 99.51222836642749,8.313043528731118,0 99.51206800132246,8.313067830896685,0 99.51204921968812,8.313304171872861,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>น.ส.3ก เลขที่ 3221 (4-2-80 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51401071345683,8.310005774883052,0 99.51400739294232,8.309514799718077,0 99.51450937216899,8.30954477990079,0 99.51450669964198,8.309661140811668,0 99.51439712202,8.309885544671376,0 99.51440514004533,8.310388933298052,0 99.51440246745062,8.310765246248042,0 99.51434634194058,8.311327800763353,0 99.51399355280576,8.311322512063102,0 99.51401071345683,8.310005774883052,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>น.ส.3ก เลขที่ 267 (10-3-30 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin33</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51355282567452,8.308285622013953,0 99.51476818231481,8.308299784065737,0 99.51469291671886,8.309530367947628,0 99.51415454319385,8.309501778528386,0 99.51385061509789,8.309483329728513,0 99.51353176963838,8.309413220318406,0 99.51355282567452,8.308285622013953,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.3575 (4-3-83 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51048643010971,8.310781654047581,0 99.51015441224386,8.310796019656507,0 99.50985208702888,8.309199146310906,0 99.51034735640943,8.309176687889854,0 99.51048643010971,8.310781654047581,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.5444 (4-2-53 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51081080940458,8.310778999506905,0 99.51048643011379,8.310783842262751,0 99.5103487172992,8.30917850188594,0 99.51075207607241,8.309163004045585,0 99.51078623100442,8.310037107358085,0 99.51078936241858,8.310154663279509,0 99.51081080940458,8.310778999506905,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.4163 (5-0-95 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.5093045023735,8.310867124952143,0 99.5087535131383,8.310869669703356,0 99.50859881287275,8.309596751824007,0 99.5090296310343,8.309476144029492,0 99.5093045023735,8.310867124952143,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.5445 (5-3-09 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.50978653279995,8.310811571730268,0 99.50933366870748,8.3108604535225,0 99.50905711935744,8.309441614000869,0 99.50900709996073,8.309251222704994,0 99.50956028532976,8.309220472004025,0 99.50958219913613,8.309474092186983,0 99.50978653279995,8.310811571730268,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.4184 (6-0-38 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51085498196754,8.309999822133822,0 99.5108454287253,8.309627939463441,0 99.51183486539533,8.309612065980547,0 99.51263065148204,8.309310296916941,0 99.5126051708028,8.309794976980625,0 99.51256695064512,8.309996675916263,0 99.51085498196754,8.309999822133822,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.1200 (8-0-37 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin33</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.5144237237069,8.310767467320188,0 99.51590803688683,8.310732027792314,0 99.51591315887234,8.31150133795396,0 99.51538373126954,8.311492662915235,0 99.51506030308659,8.311434589291089,0 99.51437257688244,8.311329266249986,0 99.5144237237069,8.310767467320188,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.1201 (4-0-20 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin33</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51442637516263,8.310767149872566,0 99.51442637265552,8.310384136298772,0 99.51590024547879,8.310391492458765,0 99.51590769232097,8.310730310708113,0 99.51442637516263,8.310767149872566,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.4186 (6-2-47 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51355323299011,8.310406852909599,0 99.51353024278365,8.309436116085379,0 99.51382664741418,8.309500787173157,0 99.51400789746386,8.309516427136671,0 99.51400789883428,8.310036915563639,0 99.51399257642454,8.311321780849792,0 99.51354557135063,8.3112476832372,0 99.51355323299011,8.310406852909599,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.5447 (11-0-22 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51176296257488,8.313454314836985,0 99.5107055497071,8.313903043543274,0 99.51052421509225,8.313557229691856,0 99.5103494739088,8.31327582352327,0 99.51013516995134,8.31268963460831,0 99.51004615408962,8.312086091601275,0 99.510804577374,8.312006800256613,0 99.51082860963618,8.312406493553185,0 99.5108382221524,8.312643102557921,0 99.51084543103166,8.312913960392587,0 99.51088798653929,8.313038159348372,0 99.51128695870507,8.313237929889752,0 99.51172438893943,8.313223662634149,0 99.5117629630092,8.313311622982358,0 99.51176296257488,8.313454314836985,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.14261 (3-1-00 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51321237439113,8.313555933666269,0 99.51321401922004,8.313900503554988,0 99.5120656127496,8.313915084402266,0 99.51204457250941,8.313555932345878,0 99.51321237439113,8.313555933666269,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.5545 (8-1-09 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51339048221422,8.312125909743173,0 99.51323932890043,8.312119941115,0 99.5122134879544,8.312034715818125,0 99.51219539203996,8.31176252853108,0 99.51224606511545,8.311422294981032,0 99.51234293023721,8.311133164200424,0 99.51323828178832,8.311204178678853,0 99.51344677863214,8.31124137543563,0 99.51339048221422,8.312125909743173,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.4187 (6-0-81 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.5135436503123,8.311248513097469,0 99.51343245022976,8.311236724123718,0 99.51325373588584,8.311209216276586,0 99.51294793586489,8.311181708319735,0 99.51234824873342,8.311138480421294,0 99.51246342104878,8.310810343123364,0 99.51251107799293,8.310421299757763,0 99.51355159288494,8.310415409794308,0 99.5135436503123,8.311248513097469,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.1182 (3-2-91 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51322086294135,8.313070833217553,0 99.51321214421348,8.313552367879272,0 99.51204757280986,8.313558963766061,0 99.51207424007505,8.313077428685084,0 99.51224090056506,8.313051043559803,0 99.51322086294135,8.313070833217553,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.4229 (7-3-61 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51338324824835,8.312125470313189,0 99.5132975268544,8.312708032709898,0 99.51322086294135,8.313070833217553,0 99.51279953221253,8.313054788329477,0 99.51224200481268,8.313054789847902,0 99.51221581638984,8.312040313044481,0 99.51338324824835,8.312125470313189,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>เฉพาะส่วน ฉ.31681 (1-0-74 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51469805980113,8.307017809770906,0 99.5146745923422,8.306952221607489,0 99.51478581010296,8.306953326424274,0 99.51481222041586,8.307023212425959,0 99.51476570593592,8.308298505740156,0 99.51464103357644,8.308300294242274,0 99.51469805980113,8.307017809770906,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>เฉพาะส่วน ฉ.7129 (0-2-70 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51478676494341,8.306952977170898,0 99.51467413643182,8.306951753003064,0 99.51469108545213,8.306614022234067,0 99.51485223781826,8.306148615349363,0 99.5149401128912,8.306201276619111,0 99.51479105044912,8.306675189195307,0 99.51481151839877,8.306941954843671,0 99.51478676494341,8.306952977170898,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Point (139-2-94.4 ไร่)</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>ฉ.12700 (9-2-89.4 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51224252482082</longitude>
+						<latitude>8.310031849875813</latitude>
+						<altitude>0</altitude>
+						<heading>9.74044871198202e-015</heading>
+						<tilt>0</tilt>
+						<range>1293.678991412623</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51479750924085,8.312253142570242,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.4126 (4-0-46 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51224252482082</longitude>
+						<latitude>8.310031849875813</latitude>
+						<altitude>0</altitude>
+						<heading>9.74044871198202e-015</heading>
+						<tilt>0</tilt>
+						<range>1293.678991412623</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.50974505816318,8.309681802327033,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>น.ส.3ก เลขที่ 3222 (7-3-79 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51224252482082</longitude>
+						<latitude>8.310031849875813</latitude>
+						<altitude>0</altitude>
+						<heading>9.74044871198202e-015</heading>
+						<tilt>0</tilt>
+						<range>1293.678991412623</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51310493508484,8.30957798936632,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>น.ส.3ก เลขที่ 600 (14-2-80 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51565780379701</longitude>
+						<latitude>8.309527268451422</latitude>
+						<altitude>0</altitude>
+						<heading>0.0004935935241272899</heading>
+						<tilt>0</tilt>
+						<range>2071.027694202367</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51154680754216,8.312528687066292,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>น.ส.3ก เลขที่ 3221 (4-2-80 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51224252482082</longitude>
+						<latitude>8.310031849875813</latitude>
+						<altitude>0</altitude>
+						<heading>9.74044871198202e-015</heading>
+						<tilt>0</tilt>
+						<range>1293.678991412623</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51416818847662,8.310164546469371,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>น.ส.3ก เลขที่ 267 (10-3-30 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51565780379701</longitude>
+						<latitude>8.309527268451422</latitude>
+						<altitude>0</altitude>
+						<heading>0.0004935935241272899</heading>
+						<tilt>0</tilt>
+						<range>2071.027694202367</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51415747029293,8.30890729629261,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.3575 (4-3-83 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51224252482082</longitude>
+						<latitude>8.310031849875813</latitude>
+						<altitude>0</altitude>
+						<heading>9.74044871198202e-015</heading>
+						<tilt>0</tilt>
+						<range>1293.678991412623</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51028178990522,8.310413765230935,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.5444 (4-2-53 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51224252482082</longitude>
+						<latitude>8.310031849875813</latitude>
+						<altitude>0</altitude>
+						<heading>9.74044871198202e-015</heading>
+						<tilt>0</tilt>
+						<range>1293.678991412623</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.5105711341556,8.309445571686016,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.4163 (5-0-95 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51224252482082</longitude>
+						<latitude>8.310031849875813</latitude>
+						<altitude>0</altitude>
+						<heading>9.74044871198202e-015</heading>
+						<tilt>0</tilt>
+						<range>1293.678991412623</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.50896522611126,8.310569217334725,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.5445 (5-3-09 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51224252482082</longitude>
+						<latitude>8.310031849875813</latitude>
+						<altitude>0</altitude>
+						<heading>9.74044871198202e-015</heading>
+						<tilt>0</tilt>
+						<range>1293.678991412623</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.509409850963,8.310297296330969,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.4184 (6-0-38 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51565780379701</longitude>
+						<latitude>8.309527268451422</latitude>
+						<altitude>0</altitude>
+						<heading>0.0004935935241272899</heading>
+						<tilt>0</tilt>
+						<range>2071.027694202367</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51171584416989,8.309823994519899,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.1200 (8-0-37 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51565780379701</longitude>
+						<latitude>8.309527268451422</latitude>
+						<altitude>0</altitude>
+						<heading>0.0004935935241272899</heading>
+						<tilt>0</tilt>
+						<range>2071.027694202367</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51512289635916,8.311076863308216,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.1201 (4-0-20 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51853022831158</longitude>
+						<latitude>8.311143473792464</latitude>
+						<altitude>0</altitude>
+						<heading>0.0009090317296773987</heading>
+						<tilt>0</tilt>
+						<range>2121.997533314349</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51514035049605,8.310534136934413,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.4186 (6-2-47 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51224252482082</longitude>
+						<latitude>8.310031849875813</latitude>
+						<altitude>0</altitude>
+						<heading>9.74044871198202e-015</heading>
+						<tilt>0</tilt>
+						<range>1293.678991412623</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51372397928995,8.310753049327824,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.5447 (11-0-22 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51853022831158</longitude>
+						<latitude>8.311143473792464</latitude>
+						<altitude>0</altitude>
+						<heading>0.0009090317296773987</heading>
+						<tilt>0</tilt>
+						<range>2121.997533314349</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51087597215391,8.313434055758423,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.14261 (3-1-00 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51853022831158</longitude>
+						<latitude>8.311143473792464</latitude>
+						<altitude>0</altitude>
+						<heading>0.0009090317296773987</heading>
+						<tilt>0</tilt>
+						<range>2121.997533314349</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51263810949882,8.313730276208663,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.5545 (8-1-09 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51853022831158</longitude>
+						<latitude>8.311143473792464</latitude>
+						<altitude>0</altitude>
+						<heading>0.0009090317296773987</heading>
+						<tilt>0</tilt>
+						<range>2121.997533314349</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51277158951415,8.311622603947347,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.4187 (6-0-81 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51853022831158</longitude>
+						<latitude>8.311143473792464</latitude>
+						<altitude>0</altitude>
+						<heading>0.0009090317296773987</heading>
+						<tilt>0</tilt>
+						<range>2121.997533314349</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51298842033775,8.310763043229235,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.1182 (3-2-91 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51853022831158</longitude>
+						<latitude>8.311143473792464</latitude>
+						<altitude>0</altitude>
+						<heading>0.0009090317296773987</heading>
+						<tilt>0</tilt>
+						<range>2121.997533314349</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.5126829044749,8.31325987509584,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ฉ.4229 (7-3-61 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51853022831158</longitude>
+						<latitude>8.311143473792464</latitude>
+						<altitude>0</altitude>
+						<heading>0.0009090317296773987</heading>
+						<tilt>0</tilt>
+						<range>2121.997533314349</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51277279970779,8.312554244150709,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>เฉพาะส่วน ฉ.31681 (1-0-74 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51735199299371</longitude>
+						<latitude>8.308587281136607</latitude>
+						<altitude>0</altitude>
+						<heading>0.0007389915527404576</heading>
+						<tilt>0</tilt>
+						<range>1063.313201876952</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51474612509372,8.3076673616397,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>เฉพาะส่วน ฉ.7129 (0-2-70 ไร่)</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<LookAt>
+						<longitude>99.51735199299371</longitude>
+						<latitude>8.308587281136607</latitude>
+						<altitude>0</altitude>
+						<heading>0.0007389915527404576</heading>
+						<tilt>0</tilt>
+						<range>1063.313201876952</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle16220</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.51478103467846,8.306581908683002,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>แปลงกระโดด (0-3-53.9 ไร่)</name>
+			<visibility>0</visibility>
+			<Folder>
+				<name>Land (0-3-53.9 ไร่)</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<Placemark>
+					<name>ฉ.15260 (0-3-53.9 ไร่)</name>
+					<visibility>0</visibility>
+					<styleUrl>#msn_ylw-pushpin330</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.54696324534352,8.320276270018312,0 99.546986496998,8.320496137044707,0 99.54653528288728,8.320634778416297,0 99.54641709185596,8.320454896246041,0 99.54696324534352,8.320276270018312,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Point (0-3-53.9 ไร่)</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<Placemark>
+					<name>ฉ.15260 (0-3-53.9 ไร่)</name>
+					<visibility>0</visibility>
+					<LookAt>
+						<longitude>99.54767034348691</longitude>
+						<latitude>8.320679649701422</latitude>
+						<altitude>0</altitude>
+						<heading>0.002873669482663439</heading>
+						<tilt>0</tilt>
+						<range>601.2175990591391</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_placemark_circle1622</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>99.54670187514522,8.320468685218982,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>อื่นๆ</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>เส้นทาง ไม่มีชื่อ</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51435329490251,8.31134134149668,0 99.51510769023608,8.311467662414003,0 99.5153775309407,8.3115193390193,0 99.51594287620621,8.311528319363573,0 99.51596019852404,8.311471181964594,0 99.51594864615878,8.311179782943505,0 99.51598684547145,8.311114517509257,0 99.51601876213627,8.311105904046716,0 99.51609877819669,8.311122644293324,0 99.51691873553556,8.311054070475187,0 99.51716125975236,8.311048353914586,0 99.51731716874791,8.311054065774879,0 99.51739800995527,8.311019782458518,0 99.5174326544756,8.310911221280845,0 99.51745575001556,8.310791232812724,0 99.51748462085912,8.310722667772126,0 99.51757123639042,8.310665529310493,0 99.51775946044285,8.310671239528563,0 99.51874021430238,8.310556948409611,0 99.5188787991943,8.310516949832723,0 99.51894809071607,8.310442670181368,0 99.51894808867937,8.310334109537273,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Folder>
+				<name>พิจารณาซื้อ</name>
+				<visibility>0</visibility>
+				<Placemark>
+					<name>5-3-22 ไร่</name>
+					<visibility>0</visibility>
+					<styleUrl>#msn_ylw-pushpin32</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.5144988742925,8.310374040758317,0 99.51450579685762,8.30988589828543,0 99.515955208942,8.309847678486499,0 99.51593903997936,8.310368334376323,0 99.5144988742925,8.310374040758317,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>5-1-34 ไร่</name>
+					<visibility>0</visibility>
+					<styleUrl>#msn_ylw-pushpin91</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51450802614009,8.309891317777861,0 99.51463185391972,8.309578961830928,0 99.51480303419056,8.309573441740195,0 99.51480980446195,8.30935980543901,0 99.51596441573662,8.309327198688832,0 99.51595256127017,8.309849088421514,0 99.51450802614009,8.309891317777861,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>24-0-00 ไร่</name>
+					<visibility>0</visibility>
+					<styleUrl>#msn_ylw-pushpin461</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51082114633181,8.311968746126382,0 99.51084652707111,8.310801774166935,0 99.51081447967509,8.310161710939553,0 99.51088244839983,8.309992867700704,0 99.51262055762078,8.309982950927624,0 99.51258086265011,8.310425885475199,0 99.51251530802213,8.310776636573799,0 99.51239833805175,8.311129500711632,0 99.51227563753153,8.311387929301894,0 99.51222908973475,8.311775155085837,0 99.51082114633181,8.311968746126382,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>5-2-48.4 ไร่</name>
+					<visibility>0</visibility>
+					<styleUrl>#m_ylw-pushpin23</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.5091024364113,8.291582483853167,0 99.5088159592454,8.291543343602401,0 99.50860010880763,8.29149126403567,0 99.50871194974542,8.290549522111913,0 99.50971399064375,8.290777880833108,0 99.50969122803627,8.290931926581244,0 99.50943367213343,8.290888423522155,0 99.50942555301094,8.291322850338341,0 99.5091024364113,8.291582483853167,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>รูปหลายเหลี่ยม ไม่มีชื่อ</name>
+					<visibility>0</visibility>
+					<styleUrl>#msn_ylw-pushpin168</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51374256127508,8.31308656376442,0 99.51331060621088,8.313070560691996,0 99.51340509152801,8.312603850332817,0 99.51353577306324,8.311286967953661,0 99.51399977060603,8.311348190971184,0 99.51374256127508,8.31308656376442,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>รูปหลายเหลี่ยม ไม่มีชื่อ</name>
+					<visibility>0</visibility>
+					<styleUrl>#msn_ylw-pushpin168</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.51400498861933,8.311348190919617,0 99.51437557399844,8.311373726510007,0 99.51453232382524,8.311399281084864,0 99.51445764483057,8.313134618355896,0 99.51373720557871,8.313091901147176,0 99.51400498861933,8.311348190919617,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>รูปหลายเหลี่ยม ไม่มีชื่อ</name>
+					<visibility>0</visibility>
+					<styleUrl>#msn_ylw-pushpin168</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									99.5107338821183,8.313878029707942,0 99.5100403203172,8.314134349440634,0 99.50908380675968,8.312611359113067,0 99.5095844837447,8.312487925530748,0 99.50959795661444,8.312243142441545,0 99.51006598280952,8.312101619315403,0 99.51013344008437,8.312631997477048,0 99.51034924331678,8.313203820160929,0 99.5107338821183,8.313878029707942,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Folder>
+					<name>point</name>
+					<visibility>0</visibility>
+					<Placemark>
+						<name>6-0-38 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51321513256926</longitude>
+							<latitude>8.310283196822205</latitude>
+							<altitude>0</altitude>
+							<heading>0.0004800528701032187</heading>
+							<tilt>11.35960117935091</tilt>
+							<range>890.6802250937951</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.51151806041477,8.309766889409723,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>5-1-34 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51342845465054</longitude>
+							<latitude>8.309858496618839</latitude>
+							<altitude>0</altitude>
+							<heading>0.0005108658239361062</heading>
+							<tilt>11.35960117935094</tilt>
+							<range>890.6802250968814</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.51531088678894,8.309519393473002,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>24-0-00 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51321513256926</longitude>
+							<latitude>8.310283196822205</latitude>
+							<altitude>0</altitude>
+							<heading>0.0004800528701032187</heading>
+							<tilt>11.35960117935091</tilt>
+							<range>890.6802250937951</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.51149829343191,8.310710050698342,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>5-2-48.4 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51024469373427</longitude>
+							<latitude>8.291348674215502</latitude>
+							<altitude>0</altitude>
+							<heading>0.0001009638775296995</heading>
+							<tilt>4.861532541284056</tilt>
+							<range>413.7046623363164</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.5090092989183,8.291023784247928,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>5-3-22 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51342845465054</longitude>
+							<latitude>8.309858496618839</latitude>
+							<altitude>0</altitude>
+							<heading>0.0005108658239361062</heading>
+							<tilt>11.35960117935094</tilt>
+							<range>890.6802250968814</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.51530707830533,8.310080950257554,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>6-3-46 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51062351619214</longitude>
+							<latitude>8.29421987302166</latitude>
+							<altitude>0</altitude>
+							<heading>0.0001245646671721439</heading>
+							<tilt>0</tilt>
+							<range>375.4701004624153</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.51062351619216,8.294219873021662,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>5-1-07 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51062351619214</longitude>
+							<latitude>8.29421987302166</latitude>
+							<altitude>0</altitude>
+							<heading>0.0001245646671721439</heading>
+							<tilt>0</tilt>
+							<range>375.4701004624153</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.51018663539905,8.294562607206002,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>4-0-20 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51389596508889</longitude>
+							<latitude>8.309915205158916</latitude>
+							<altitude>0</altitude>
+							<heading>0.0004258820294623293</heading>
+							<tilt>6.753616393225956</tilt>
+							<range>703.327708253397</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.51522138780055,8.310541812655334,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>8-0-37 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51389596508889</longitude>
+							<latitude>8.309915205158916</latitude>
+							<altitude>0</altitude>
+							<heading>0.0004258820294623293</heading>
+							<tilt>6.753616393225956</tilt>
+							<range>703.327708253397</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.51525977635426,8.311125781065369,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>5-2-40 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51098332407723</longitude>
+							<latitude>8.310225086909616</latitude>
+							<altitude>0</altitude>
+							<heading>0.0001172908861029108</heading>
+							<tilt>0</tilt>
+							<range>769.747779468622</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.50894987441234,8.309993534775344,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>5-3-04 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51098332407723</longitude>
+							<latitude>8.310225086909616</latitude>
+							<altitude>0</altitude>
+							<heading>0.0001172908861029108</heading>
+							<tilt>0</tilt>
+							<range>769.747779468622</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.5095147246638,8.31028097869371,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>4-0-42 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51098332407723</longitude>
+							<latitude>8.310225086909616</latitude>
+							<altitude>0</altitude>
+							<heading>0.0001172908861029108</heading>
+							<tilt>0</tilt>
+							<range>769.747779468622</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.50987784135575,8.310081366782438,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>4-3-83 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51098332407723</longitude>
+							<latitude>8.310225086909616</latitude>
+							<altitude>0</altitude>
+							<heading>0.0001172908861029108</heading>
+							<tilt>0</tilt>
+							<range>769.747779468622</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.51020867946679,8.309730049514775,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>4-2-43 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51098332407723</longitude>
+							<latitude>8.310225086909616</latitude>
+							<altitude>0</altitude>
+							<heading>0.0001172908861029108</heading>
+							<tilt>0</tilt>
+							<range>769.747779468622</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.5106202096645,8.31015322715818,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>9-2-89 ไร่</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<LookAt>
+							<longitude>99.51354238054597</longitude>
+							<latitude>8.310225319722909</latitude>
+							<altitude>0</altitude>
+							<heading>0.0004802235951101518</heading>
+							<tilt>8.867509897235255</tilt>
+							<range>1082.77982716839</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle16200</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.51498319268197,8.312243034944038,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ฉ.16243 (3-3-18.2 ไร่)</name>
+						<visibility>0</visibility>
+						<LookAt>
+							<longitude>99.51024279329229</longitude>
+							<latitude>8.290147419337705</latitude>
+							<altitude>0</altitude>
+							<heading>0.002161822061556571</heading>
+							<tilt>17.41674302636729</tilt>
+							<range>459.5789368680623</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_placemark_circle0</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>99.51013362109725,8.290204035356098,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+			<Placemark>
+				<name>ฉ.7129 (9-1-39 ไร่)</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								99.51478337069005,8.306953782784943,0 99.5144666162019,8.306943526663714,0 99.51421898862505,8.306940034916162,0 99.51365144863901,8.3068671434512,0 99.51368086014156,8.306572474176811,0 99.51372497702374,8.306299632600322,0 99.51374588425101,8.306104376072669,0 99.5138720313073,8.305553865169411,0 99.51493982507446,8.30620276232162,0 99.51479105044912,8.306675189195307,0 99.51481155109143,8.306941218889717,0 99.51478337069005,8.306953782784943,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>ฉ.31681 (6-2-5 ไร่)</name>
+				<visibility>0</visibility>
+				<LookAt>
+					<longitude>99.51602717113345</longitude>
+					<latitude>8.299645482711737</latitude>
+					<altitude>0</altitude>
+					<heading>0.0003077875439315731</heading>
+					<tilt>0</tilt>
+					<range>2666.397382499007</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle1620</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>99.51449178508192,8.307613420022554,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ฉ.7129 (9-1-39 ไร่)</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<LookAt>
+					<longitude>99.51663423417462</longitude>
+					<latitude>8.306688857498562</latitude>
+					<altitude>0</altitude>
+					<heading>0.000396488639629519</heading>
+					<tilt>0</tilt>
+					<range>711.296276830408</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle1620</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>99.51426318090012,8.306401676557234,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ฉ.31681 (6-2-5 ไร่)</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<styleUrl>#msn_ylw-pushpin00</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								99.5141734745208,8.307025769913198,0 99.5141876063888,8.306937870325809,0 99.51444351593776,8.306947850110952,0 99.51478879453183,8.306953629919292,0 99.51481222041586,8.307023212425959,0 99.51476751278995,8.30830029360895,0 99.51414559630044,8.308289569054939,0 99.5141734745208,8.307025769913198,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>เฉพาะส่วน ฉ.6928 (7-0-00 ไร่)</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<LookAt>
+					<longitude>99.51025019369436</longitude>
+					<latitude>8.289495376771365</latitude>
+					<altitude>0</altitude>
+					<heading>-0.0003891717815718079</heading>
+					<tilt>0</tilt>
+					<range>408.8770168087723</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_placemark_circle1620</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>99.50981909036609,8.289628775648861,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ฉ.6928 (12-3-69 ไร่)</name>
+				<visibility>0</visibility>
+				<open>1</open>
+				<styleUrl>#inline5</styleUrl>
+				<Polygon>
+					<tessellate>1</tessellate>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								99.50897321535901,8.289193087934745,0 99.51057805869978,8.289390699190401,0 99.50988742164675,8.289887374915576,0 99.50972856048028,8.290812694124535,0 99.50872412358608,8.290608622603571,0 99.50897321535901,8.289193087934745,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>เส้นทาง ไม่มีชื่อ</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin0210</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.52190029584773,8.290863699221655,0 99.51866263967126,8.292369431212629,0 99.5004279099785,8.301204298242771,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เส้นทาง ไม่มีชื่อ</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin0210</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.52198068571794,8.291016918906799,0 99.51438689222576,8.294638516913144,0 99.50068790624394,8.301358162694219,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เหมือง</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin701</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51070570272985,8.293366338900116,0 99.51077029719278,8.293647971786278,0 99.51106106505905,8.29500912074146,0 99.51080312500669,8.295102337497266,0 99.51068150236665,8.295160075346132,0 99.51062854574492,8.2952100147055,0 99.51057576484115,8.295247211200934,0 99.5105149092137,8.29526129734548,0 99.51047782086387,8.295270730114957,0 99.5104166838015,8.295257117082665,0 99.5102918792811,8.295229141520508,0 99.51025002983958,8.29523087579588,0 99.51018630601833,8.295244874476333,0 99.51016672394644,8.295306570572537,0 99.51016353777128,8.295381945760997,0 99.51017685834161,8.295464198651137,0 99.51016156936089,8.295507128705523,0 99.51014046482604,8.295533398938693,0 99.51010268031749,8.295556054578571,0 99.51008545973372,8.295562402043936,0 99.51006170316157,8.295572944857414,0 99.51004801173966,8.295595281786236,0 99.51003584177998,8.295619369225689,0 99.51001961457975,8.29563542783114,0 99.51000338748897,8.295655500932336,0 99.50999121708288,8.29566754486024,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เส้นทาง ไม่มีชื่อ</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin512</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51523792139142,8.294024713610957,0 99.51498619244896,8.293224278954899,0 99.51503034738396,8.292910894328383,0 99.51504256326066,8.292751290175231,0 99.51481102789147,8.292252788088646,0 99.51462080851209,8.291801134215884,0 99.51448640393323,8.291450172851095,0 99.51440371499301,8.29114107937659,0 99.51431183775232,8.290741076547187,0 99.51419546049189,8.290256224226603,0 99.5140760207145,8.289736702885037,0 99.51404631335477,8.289465927392349,0 99.51406591383929,8.28920674095864,0 99.51414062645685,8.288788923178093,0 99.51406068229744,8.288133198374075,0 99.51401780645341,8.287942287457518,0 99.51391798547613,8.287624400399183,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เหมือง</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin414</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.50899581850121,8.292405737398234,0 99.50907786355555,8.292510354295155,0 99.50913978650448,8.292700430195113,0 99.50915023163715,8.292778906676153,0 99.50924332649873,8.292823368480596,0 99.50929870032802,8.292878196687299,0 99.5097305307747,8.293746763434081,0 99.50901216946095,8.294044074172138,0 99.50873399567857,8.294151870719718,0 99.50860855991816,8.29418673975562,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เหมือง</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin701</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51450745450875,8.291615917313056,0 99.51415582099264,8.291793343772845,0 99.51361740708182,8.292176700761276,0 99.51348510418087,8.29158164490546,0 99.5133360676958,8.290822007632107,0 99.51295955475629,8.290925118524925,0 99.51238128931136,8.291083172271952,0 99.51168097766062,8.291278756681376,0 99.51170648394795,8.291661695530884,0 99.5116408351047,8.291681041136828,0 99.51144897263035,8.291707275854561,0 99.51118016154348,8.291736692724323,0 99.51065335495274,8.291811458012081,0 99.51049186433426,8.291108520432934,0 99.50980557611617,8.290973405273229,0 99.50971419847271,8.290958730268541,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>แบ่งหักเป็นทางสาธารณะ</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin2200</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51101030943994,8.29085361777461,0 99.51117016175456,8.290872821269232,0 99.51165133375585,8.290854229501623,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>ห้วยเคียน</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin10</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51053177912972,8.295996281269895,0 99.51046933673391,8.295958738302197,0 99.5104653391158,8.295900197567949,0 99.51050801343088,8.29580558494305,0 99.51057361669521,8.295702143959495,0 99.51059220504615,8.295570249993311,0 99.51057662748612,8.295436276528928,0 99.51057107840704,8.295426471154176,0 99.51051645256779,8.295334119693912,0 99.51039046537447,8.295286087502465,0 99.51027203415451,8.295271753931708,0 99.51017519191045,8.295279381306122,0 99.51015724086579,8.29531165570249,0 99.5101578863011,8.295376374249317,0 99.5101697688259,8.295463019760566,0 99.51014464931852,8.295524640113863,0 99.51009365078164,8.295586466042641,0 99.51007896736948,8.295593753260684,0 99.51001657662027,8.295637536618392,0 99.50996878127727,8.295674101609894,0 99.50991349714371,8.295710738574163,0 99.50986922285117,8.295754798111512,0 99.50983593922955,8.295780547667338,0 99.50975445165821,8.295773187392632,0 99.50973969628417,8.295729084696689,0 99.50970279825394,8.2956887487478,0 99.50971773422243,8.295608337697505,0 99.50976575179236,8.295477501987227,0 99.50976944365681,8.295444936882236,0 99.50974379572983,8.295405212848722,0 99.50968530571252,8.295340393557462,0 99.50960883712838,8.295257898927567,0 99.50960910009347,8.295204296285883,0 99.50964927299471,8.295190028402688,0 99.50970389132873,8.29515132955574,0 99.50974096475242,8.295116166709404,0 99.50976256038854,8.295071669742727,0 99.50974431198463,8.295040060214177,0 99.50968646641454,8.295018019345614,0 99.50963919827245,8.295005457112129,0 99.50954027550915,8.295046372122517,0 99.50942733822672,8.295049529547832,0 99.50933818511909,8.29502745835911,0 99.50927939566887,8.29498665507068,0 99.50925642138343,8.294896494617284,0 99.50922784288882,8.294813606129699,0 99.50920005185951,8.294761930010861,0 99.50907411817366,8.294713651075652,0 99.50897871860742,8.294707640540196,0 99.50891009259883,8.294719667495713,0 99.50889809233333,8.2947287017022,0 99.50888002132935,8.294746806384035,0 99.50884309776954,8.294838061650209,0 99.50879681586407,8.294915052516561,0 99.50877734607721,8.294996050830484,0 99.50884039137922,8.295071672391874,0 99.50886078993591,8.295173800858136,0 99.50886072534654,8.295180233884445,0 99.50881991751406,8.295235154679128,0 99.50875713881322,8.29528397402404,0 99.50868877547899,8.295283974245432,0 99.50863488036866,8.295206025936114,0 99.50864320706187,8.295122549887523,0 99.50867252727669,8.294924350207959,0 99.50870221145044,8.294813607235549,0 99.50870732245087,8.29471665923969,0 99.50869101654068,8.294647826723328,0 99.50864737284263,8.294615154181798,0 99.50848070358616,8.294638900698548,0 99.50840618215808,8.294647827371778,0 99.50838071537908,8.294621083439044,0 99.50838358150901,8.294559092666324,0 99.50843055456139,8.294494761325247,0 99.50848542138907,8.29442330251476,0 99.50854919110549,8.29439799177853,0 99.50861155021126,8.29432573520721,0 99.50863428258288,8.294266611396751,0 99.50863254599076,8.294201851807179,0 99.50856779552809,8.294134661175509,0 99.50852169032912,8.294074150292559,0 99.50844648404019,8.294029119797733,0 99.50838691863432,8.294020149672637,0 99.50833629699476,8.29400224519326,0 99.50820252360118,8.294044096641947,0 99.50810084440585,8.294080177182,0 99.50797558180615,8.294074150422235,0 99.50789202417494,8.294074150467381,0 99.50781503836362,8.294056102246211,0 99.50775336698841,8.294032112735218,0 99.50771355997249,8.293987361326808,0 99.50768968340512,8.293922260788039,0 99.50770189336137,8.29384322184678,0 99.50775013639526,8.29380371728346,0 99.50778702324922,8.293794305362152,0 99.50783219808182,8.293809998881661,0 99.50788270449071,8.293857294525537,0 99.50792238590883,8.293860459036784,0 99.50800869010749,8.29382572798982,0 99.50813470225234,8.293731885802973,0 99.50817154443739,8.293663873865063,0 99.5082590773376,8.29352683579037,0 99.5083272170109,8.293410273647089,0 99.5083355626504,8.293307363757359,0 99.50836654725384,8.293216883367977,0 99.50838345643822,8.293142259579705,0 99.5083787950926,8.293045536179099,0 99.50830238319482,8.292968232488391,0 99.50821051704621,8.292833939718795,0 99.5081782485338,8.292724052701566,0 99.50828248438751,8.29259027613522,0 99.50840951081207,8.292530741723603,0 99.50866089147077,8.292442445960729,0 99.50878133526871,8.292400818460738,0 99.50889585049325,8.292425763101244,0 99.5089577429827,8.292446623873179,0 99.5090268477373,8.292446623997696,0 99.50907630984719,8.292388382629419,0 99.50905243740789,8.292253145061887,0 99.50904207243032,8.292140597944101,0 99.50906405472279,8.292041770248041,0 99.50906962484783,8.291881599968086,0 99.50911514992754,8.291773447305411,0 99.50914698178129,8.291658215537238,0 99.50927745967478,8.291544944948306,0 99.50937745237826,8.291497601077003,0 99.50938508051934,8.291489029536031,0 99.50945640488496,8.291399698284575,0 99.5094754196826,8.291278313604925,0 99.50947846436128,8.291114543647304,0 99.50947900697355,8.291057449156538,0 99.50945400573815,8.291007969729789,0 99.50948838222413,8.290967767442167,0 99.50950088282956,8.290967767386038,0 99.50954463479417,8.29096158221568,0 99.50955401026401,8.290967767139591,0 99.50962588866619,8.290995599044768,0 99.50969464189396,8.290967766425506,0 99.50974464431812,8.290933748893465,0 99.50984152410871,8.290884268617713,0 99.50992277831682,8.290881175590434,0 99.50995715502319,8.290834788109319,0 99.50991621579918,8.290743399084816,0 99.50998809346771,8.290687734363297,0 99.51005372105419,8.290678456693639,0 99.51010372292764,8.290650624274454,0 99.51015372474552,8.290613514471282,0 99.51016935005785,8.29054857261824,0 99.51014747386579,8.29048053848901,0 99.51004434459843,8.290434151977001,0 99.50994746566683,8.290403227738054,0 99.50984746155528,8.29035993362143,0 99.50982558554863,8.290325916584106,0 99.50982558528644,8.29026097480793,0 99.50982891074071,8.290132474798,0 99.50981690934651,8.289957056130586,0 99.50989113887476,8.289836986657091,0 99.51000750136268,8.289822672695511,0 99.51010791858258,8.289884843123437,0 99.51012548345966,8.289928108364252,0 99.51017631474275,8.289947396344163,0 99.51022615132234,8.290024915587944,0 99.51028216093792,8.290034646753972,0 99.51032872028858,8.290054137100073,0 99.51035246218139,8.290029779580875,0 99.51037175435909,8.28998123784158,0 99.51038597807126,8.289961885503137,0 99.51040507880973,8.289918476663351,0 99.51041743862002,8.289833329214204,0 99.51045301175222,8.289741941782502,0 99.51054095294612,8.289671242358383,0 99.51063291198517,8.28964310086241,0 99.51067957012145,8.289602973904284,0 99.51073318455114,8.289517433598704,0 99.51076406350498,8.289379635019074,0 99.51056952089532,8.28919883685554,0 99.51057040270734,8.289072535767334,0 99.51062899270603,8.288910298653589,0 99.5106502003577,8.288796491955287,0 99.51064936787662,8.288709908818335,0 99.51059590248826,8.288620354495288,0 99.5104644361704,8.288606383547867,0 99.51031227545089,8.28862035531095,0 99.51023330227402,8.288587826607937,0 99.51015466570867,8.288491703533643,0 99.51018546934895,8.288342508325492,0 99.51018524656465,8.288218152455746,0 99.51012450271185,8.288095388157034,0 99.51009424075227,8.288095388345784,0 99.51006394171924,8.288103523959476,0 99.50982033232745,8.288185263375084,0 99.50976679508678,8.288201695471575,0 99.50972875669406,8.288201695778685,0 99.50954513318929,8.288234645442863,0 99.50940322963562,8.288160672228655,0 99.50930922380786,8.288054821499804,0 99.50939118428983,8.287894239909278,0 99.50939659544775,8.287759862269022,0 99.50928908175372,8.287673928417849,0 99.50920346345855,8.287611924789287,0 99.50906606903675,8.287565692708471,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เส้นทาง ไม่มีชื่อ</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51453051921166,8.309534310047122,0 99.51382976616958,8.309490011872089,0 99.51352716070355,8.309422597513898,0 99.51319429374466,8.309391780008813,0 99.51261999019451,8.309299325522289,0 99.51224388968494,8.309445201220216,0 99.51182731846333,8.309601219667471,0 99.51123544454489,8.309608923211396,0 99.51083833989554,8.30961662665125,0 99.51083444791928,8.309266537131867,0 99.51088506069308,8.308890598051139,0 99.51088700991403,8.308135426956781,0 99.51096935260466,8.307428339681398,0 99.51102694408628,8.307316645721826,0 99.51111218023993,8.306848931371032,0 99.51125961352908,8.306739517040608,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เหมือง</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin221</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51355278877568,8.309421124237172,0 99.51355276333827,8.308288921976976,0 99.51362769834799,8.307268845041707,0 99.51366185290122,8.30687010733309,0 99.51369571384878,8.306680216619764,0 99.51368441598362,8.306266927019971,0 99.51377104474214,8.30587142605277,0 99.51388078668148,8.305494254671972,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เหมือง</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.5149892053401,8.306071365294891,0 99.51480443276299,8.306674349577607,0 99.51482992078726,8.30693329389894,0 99.51481505396878,8.306971122225109,0 99.5148277979265,8.307067738919118,0 99.51477895678198,8.30827089786389,0 99.5147483039127,8.308922631814296,0 99.51470895264377,8.309546203166214,0 99.51452606720702,8.309532460084157,0 99.5145168081059,8.309678190109876,0 99.51441726420421,8.309891224979298,0 99.51441283685747,8.310755384657938,0 99.51435766496689,8.31134646930021,0 99.51400557108622,8.311335017698097,0 99.51346211687147,8.311250264162995,0 99.51339432990886,8.312135791592933,0 99.51331562040926,8.312657983293939,0 99.51323014749447,8.313070422239884,0 99.51321625921675,8.313908816730946,0 99.5120564914187,8.313922084384906,0 99.51203937060922,8.313565956202798,0 99.5120701884108,8.313073348494944,0 99.5122328369508,8.313045537892077,0 99.51221229211713,8.312040539703936,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เหมือง</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin221</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51209701887962,8.313315422307529,0 99.51177911105879,8.313298404072363,0 99.51173557976497,8.313220459902563,0 99.51129037074989,8.313230600253338,0 99.51089501835735,8.313016596071053,0 99.51086035451199,8.31286818370643,0 99.51086727290608,8.312368315300802,0 99.51081603767123,8.311957891615236,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เส้นทาง ไม่มีชื่อ</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin221</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51441266944515,8.311356925409182,0 99.51518066184499,8.311499759363755,0 99.51568880516274,8.311551177005054,0 99.51594287620621,8.311528319363573,0 99.51596019852404,8.311471181964594,0 99.51594864615878,8.311179782943505,0 99.51598906614768,8.311151213976352,0 99.51602948600458,8.311111217631366,0 99.51609877819669,8.311122644293324,0 99.51691873553556,8.311054070475187,0 99.51716125975236,8.311048353914586,0 99.51731716874791,8.311054065774879,0 99.51739800995527,8.311019782458518,0 99.5174326544756,8.310911221280845,0 99.51745575001556,8.310791232812724,0 99.51748462085912,8.310722667772126,0 99.51757123639042,8.310665529310493,0 99.51775946044285,8.310671239528563,0 99.51874021430238,8.310556948409611,0 99.5188787991943,8.310516949832723,0 99.51894809071607,8.310442670181368,0 99.51894808867937,8.310334109537273,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เส้นทาง ไม่มีชื่อ</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51134081049798,8.304105857932655,0 99.51113879919282,8.304941782323027,0 99.51124922194823,8.306717793020868,0 99.51108899675852,8.306838932080956,0 99.51099910261472,8.307325865168822,0 99.51095247677692,8.307411717113112,0 99.51086147310224,8.308142161776578,0 99.51086532751464,8.308884960127656,0 99.51080289057853,8.309269598718222,0 99.51083224464475,8.310018191337083,0 99.51077560319742,8.310160937060664,0 99.51081991339441,8.310795104403658,0 99.51079698835774,8.311993711057427,0 99.51002331241115,8.312075730789683,0 99.50955786742289,8.312233741658485,0 99.50957515033019,8.312486001628686,0 99.50904366859125,8.31260571740499,0 99.50859428274264,8.312708331979431,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>ถนน</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin164</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.50956266768451,8.303361414205785,0 99.51137674821395,8.30410679829876,0 99.51266380442483,8.304658110859522,0 99.51510931671807,8.306087919874033,0 99.52013101931601,8.309253725061142,0 99.52148774533374,8.31013711429253,0 99.52547825097143,8.311323529496418,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เส้นทาง ไม่มีชื่อ</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51081781278768,8.309150801966322,0 99.50983961674551,8.309187653268907,0 99.509493589724,8.309215292979951,0 99.50899048604788,8.30924287199567,0 99.5090482167485,8.309500006264962,0 99.50932197225652,8.3108713084688,0 99.50955864862907,8.31223368495675,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>เส้นทาง ไม่มีชื่อ</name>
+				<visibility>0</visibility>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>
+						99.51081551494313,8.31078776030231,0 99.5104756628123,8.310791261599611,0 99.50978710969001,8.31082103308146,0 99.50933035906884,8.310874880470768,0 99.50850781862877,8.310882991414577,0 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
